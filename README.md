@@ -11,7 +11,7 @@
   - A 3D Game using only free assets available in unity store & mixamo for the character and animations.
   - The game concept is still under development
 
-</div>
+</div> 
 
 
 
